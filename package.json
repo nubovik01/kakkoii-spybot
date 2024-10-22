@@ -1,0 +1,19 @@
+{
+  "name": "kakkoii-spybot",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubovik01/kakkoii-spybot.git"
+  },
+  "author": "qwkrtezzz (https://github.com/nubovik01)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nubovik01/kakkoii-spybot/issues"
+  },
+  "homepage": "https://github.com/nubovik01/kakkoii-spybot#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puregram": "^2.26.2"
+  }
+}
