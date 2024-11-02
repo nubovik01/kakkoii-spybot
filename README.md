@@ -1,7 +1,7 @@
 # kakkoii-spybot
 
 A very simple bot for covertly forwarding messages from one account to another account, chat
-or channel. Useful if you are sitting on someone account but need to save something quickly,
+or channel. Useful if you are sitting on other account but need to save something quickly,
 or if you just don't want to save something to your device (AKA "Saved Messages" #2).
 
 ## install node (on macos/windows)
@@ -31,6 +31,8 @@ nvm install node
 ## environment variables
 
 rename `.env.example` to `.env` and fill in the variables
+
+you can get your/channel/chat id use https://t.me/usinfobot
 
 ## install dependencies
 
