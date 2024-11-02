@@ -34,6 +34,8 @@ rename `.env.example` to `.env` and fill in the variables
 
 you can get your/channel/chat id use https://t.me/usinfobot
 
+you can get token of bot here: https://t.me/botfather
+
 ## install dependencies
 
 ```bash
