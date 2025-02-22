@@ -4,9 +4,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![puregram](https://img.shields.io/badge/puregram-2693d8?style=for-the-badge)
 
-A very simple bot for covertly forwarding messages from one account to another account, chat
-or channel. Useful if you are sitting on other account but need to save something quickly,
-or if you just don't want to save something to your device (AKA "Saved Messages" #2).
+A very simple bot for secretly forwarding messages from one account
+to another account, chat or channel. Sometimes it is useful.
 
 ## install node (on macos/windows)
 
